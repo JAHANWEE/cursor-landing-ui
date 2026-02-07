@@ -3,7 +3,9 @@
 Desktop-first UI recreation of a modern developer-tool Cursor's landing page, built for frontend practice and layout exploration
 
 ---
+## Screenshot
 
+![Full screen image](assets/cursor-landing-ui.vercel.app_.png)
 ## Sections
 
 ### 1. Top Navigation Bar
